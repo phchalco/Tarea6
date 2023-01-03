@@ -30,20 +30,15 @@ La forma de onda sinusoidal
 
 ![](https://github.com/phchalco/Tarea6/blob/main/R1.png)
 
-Fuentes de voltaje sinusoidal 
-Valores sinusoidales de voltaje y corriente 
-Medición angular de una onda seno
+Fuentes de voltaje sinusoidal, Valores sinusoidales de voltaje y corriente y Medición angular de una onda seno
 
 ![](https://github.com/phchalco/Tarea6/blob/main/R2.png)
 
-Introducción a los fasores
-Análisis de circuitos de CA
+Introducción a los fasores y Análisis de circuitos de CA
 
 ![](https://github.com/phchalco/Tarea6/blob/main/R3.png)
 
-Voltajes superpuestos de CD y de CA
-Formas de onda no sinusoidales
-El osciloscopio
+Voltajes superpuestos de CD y de CA, Formas de onda no sinusoidales y El osciloscopio
 
 ![](https://github.com/phchalco/Tarea6/blob/main/R4.png)
 
