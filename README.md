@@ -1,6 +1,6 @@
 Principios de Circuitos Eléctricos
 
-Nombre: Pablo Chalco   NRC: 10067  Materia: F. de Circuitos Eléctricos   Fecha: 23/12/2022  
+Nombre: Pablo Chalco   NRC: 10067  Materia: F. de Circuitos Eléctricos   Fecha: 06/01/2023 
 
 Tema: Principios de Circuitos Eléctricos
 
@@ -20,29 +20,32 @@ Objetivos
 
 2.-Marco Teórico:
 
-Capítulo 9 ANÁLISIS DE RAMAS, LAZOS Y NODOS
+Capitulo 11 INTRODUCCIÓN A LA CORRIENTE Y AL VOLTAJE ALTERNOS
 
-En el método de la corriente en ramas, se aplicarán las leyes de Kirchhoff para determinar la corriente en varias ramas de un circuito 
-de múltiples lazos. Un lazo es una trayectoria completa para la corriente que circula en un circuito. En el método de la corriente 
-en lazos, se determinarán las corrientes de lazo, y no las corrientes de rama. En el método del voltaje en nodos, se determinarán los 
-voltajes presentes en los nodos independientes de un circuito. Como se sabe, un nodo es la unión de dos o más componentes.
+Este capítulo proporciona una introducción al análisis de circuitos de ca en el cual se estudian las señales eléctricas que varían 
+con el tiempo, en particular la onda seno. Una señal eléctrica es un voltaje o una corriente que cambian de manera consistente con el 
+tiempo. En otras palabras, el voltaje o la corriente fluctúan de acuerdo con cierto patrón llamado forma de onda.
 
-Ecuaciones simultáneas en el análisis de circuitos
+La forma de onda sinusoidal
 
-![](https://github.com/phchalco/Tarea5/blob/main/P1.png)
+![](https://github.com/phchalco/Tarea6/blob/main/R1.png)
 
-Método de la corriente en ramas
+Fuentes de voltaje sinusoidal 
+Valores sinusoidales de voltaje y corriente 
+Medición angular de una onda seno
 
-![](https://github.com/phchalco/Tarea5/blob/main/P2.png)
+![](https://github.com/phchalco/Tarea6/blob/main/R2.png)
 
-Método de la corriente en trayectorias cerradas
+Introducción a los fasores
+Análisis de circuitos de CA
 
-![](https://github.com/phchalco/Tarea5/blob/main/P3.png)
+![](https://github.com/phchalco/Tarea6/blob/main/R3.png)
 
-Método del voltaje en nodos
+Voltajes superpuestos de CD y de CA
+Formas de onda no sinusoidales
+El osciloscopio
 
-![](https://github.com/phchalco/Tarea5/blob/main/P4.png)
-
+![](https://github.com/phchalco/Tarea6/blob/main/R4.png)
 
 3.-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
