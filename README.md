@@ -60,29 +60,31 @@ Voltajes superpuestos de CD y de CA, Formas de onda no sinusoidales y El oscilos
 
 ![](https://github.com/phchalco/Tarea6/blob/main/S8.png)
 
-Capítulo 10
+Capítulo 12
 
-MAGNETISMO Y ELECTROMAGNETISMO
+CAPACITORES
 
-El campo magnético
+El capacitor es un dispositivo eléctrico que puede guardar carga eléctrica, con lo cual crea un campoeléctrico que, a su vez, guarda energía.
+La medida de la capacidad de almacenamiento de energía de un capacitor es su capacitancia. Cuando se aplica una señal sinusoidal a un 
+capacitor, éste reacciona de cierta manera y produce oposición a la corriente, la cual depende de la frecuencia y la señal aplicada. 
+Esta oposición a la corriente se llama reactancia capacitiva.
 
-![](https://github.com/phchalco/Tarea5/blob/main/Q1.png)
+El capacitor básico y Tipos de capacitores
 
-Electromagnetismo
+![](https://github.com/phchalco/Tarea6/blob/main/F1.png)
 
-![](https://github.com/phchalco/Tarea5/blob/main/Q2.png)
+Capacitores en serie y Capacitores en paralelo
 
-Dispositivos electromagnéticos
+![](https://github.com/phchalco/Tarea6/blob/main/F2.png)
 
-![](https://github.com/phchalco/Tarea5/blob/main/Q3.png)
+Capacitores en circuitos de CD y Capacitores en circuitos de CA
 
-Histéresis magnética
+![](https://github.com/phchalco/Tarea6/blob/main/F3.png)
 
-![](https://github.com/phchalco/Tarea5/blob/main/Q4.png)
+Aplicaciones de los capacitores y Circuitos de capacitor conmutados
 
-Inducción electromagnética y Aplicaciones de la inducción electromagnética
+![](https://github.com/phchalco/Tarea6/blob/main/F4.png)
 
-![](https://github.com/phchalco/Tarea5/blob/main/Q5.png)
 
 3.1-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
