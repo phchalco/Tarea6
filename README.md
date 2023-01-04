@@ -105,8 +105,6 @@ Aplicaciones de los capacitores y Circuitos de capacitor conmutados
 
 ![](https://github.com/phchalco/Tarea6/blob/main/M9.png)
 
-![](https://github.com/phchalco/Tarea6/blob/main/M10.png)
-
 4.-Video
 
 https://www.youtube.com/watch?v=HMbY7oa48KI
