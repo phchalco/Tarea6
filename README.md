@@ -44,21 +44,21 @@ Voltajes superpuestos de CD y de CA, Formas de onda no sinusoidales y El oscilos
 
 3.-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-![](https://github.com/phchalco/Tarea6/blob/main/QR1.png)
+![](https://github.com/phchalco/Tarea6/blob/main/T1.png)
 
-![](https://github.com/phchalco/Tarea6/blob/main/QR2.png)
+![](https://github.com/phchalco/Tarea6/blob/main/T2.png)
 
-![](https://github.com/phchalco/Tarea6/blob/main/QR3.png)
+![](https://github.com/phchalco/Tarea6/blob/main/T3.png)
 
-![](https://github.com/phchalco/Tarea6/blob/main/QR4.png)
+![](https://github.com/phchalco/Tarea6/blob/main/T4.png)
 
-![](https://github.com/phchalco/Tarea6/blob/main/QR5.png)
+![](https://github.com/phchalco/Tarea6/blob/main/T5.png)
 
-![](https://github.com/phchalco/Tarea6/blob/main/QR6.png)
+![](https://github.com/phchalco/Tarea6/blob/main/T6.png)
 
-![](https://github.com/phchalco/Tarea6/blob/main/QR7.png)
+![](https://github.com/phchalco/Tarea6/blob/main/T7.png)
 
-![](https://github.com/phchalco/Tarea6/blob/main/QR8.png)
+![](https://github.com/phchalco/Tarea6/blob/main/T8.png)
 
 Capítulo 10
 
