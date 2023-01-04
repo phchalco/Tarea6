@@ -6,17 +6,17 @@ Tema: Principios de Circuitos Eléctricos
 
 1.-Objetivos Generales: 
 
--Analizar los conceptos de mallas y redes aplicados en los circuitos eléctricos.
+Analizar la corriente y voltaje alternos y caractersisticas de los capacitores en los circuitos eléctricos.
 
 Objetivos 
 
 1.1-Objetivos Específicos:
 
--Describir las características de los campos eléctricos y magnéticos.
+-Describir las características de los capacitores en serie y paralelo.
 
--Identificar y aplicar los métodos de análisis de mallas y/o análisis de nodos que se encuentran en un circuito serie-paralelo
+-Identificar los tipos de capacitores.
 
--Reconocer las distintas fallas que pueden ocurrir en un circuito eléctrico.
+-Reconocer las distintas ondas sinusoidales existentes en los circuitos eléctricos.
 
 2.-Marco Teórico:
 
