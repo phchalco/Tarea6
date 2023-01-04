@@ -85,10 +85,27 @@ Aplicaciones de los capacitores y Circuitos de capacitor conmutados
 
 ![](https://github.com/phchalco/Tarea6/blob/main/F4.png)
 
-
 3.1-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 ![](https://github.com/phchalco/Tarea6/blob/main/M1.png)
+
+![](https://github.com/phchalco/Tarea6/blob/main/M2.png)
+
+![](https://github.com/phchalco/Tarea6/blob/main/M3.png)
+
+![](https://github.com/phchalco/Tarea6/blob/main/M4.png)
+
+![](https://github.com/phchalco/Tarea6/blob/main/M5.png)
+
+![](https://github.com/phchalco/Tarea6/blob/main/M6.png)
+
+![](https://github.com/phchalco/Tarea6/blob/main/M7.png)
+
+![](https://github.com/phchalco/Tarea6/blob/main/M8.png)
+
+![](https://github.com/phchalco/Tarea6/blob/main/M9.png)
+
+![](https://github.com/phchalco/Tarea6/blob/main/M10.png)
 
 4.-Video
 
@@ -96,9 +113,24 @@ https://www.youtube.com/watch?v=HMbY7oa48KI
 
 5.-Conclusiones:
 
--En relación a lo antes expuesto, se puede deducir que la relación que existe entre las corrientes de rama y nodos abarcan una gran cantidad de definiciones que
-serán muy útiles a la hora de experimentar con estos circuitos.
+-En virtud de lo argumentado, podemos concluir que la corriente y voltajes alternos son de mucha importancia en el área de circuitos eléctricos ya que estas
+se manipulan de distinta forma y su estudio abarca muchas más cosas.
 
--Finalmente, la definición de electromagnetismo es muy importante en el área de los circuitos eléctricos, ya que nos abre nuevas visiones sobre lo que es la electricidad y su desenvolvimiento.
+-Finalmente, el tema de capacitores es de gran importancia ya que este dispositivo se encuentra en muchos circuitos eléctricos que van de los más sencillos a
+los más complejos, abarcando gran parte de dispositivos eléctricos en la vida cotidiana.
 
 6.-Bibliografía
+
+¿Qué es un capacitor o condensador eléctrico? | Quartux. (s. f.). https://www.quartux.com/blog/que-es-un-capacitor-o-condensador-electrico
+
+Montero, M. (2021, 22 abril). Introducción a los circuitos de condensadores conmutados. TecNoticias, tu portal de información. https://tecnoticias.net/2021/04/introduccion-a-los-circuitos-de-condensadores-conmutados/
+
+Forma de onda sinusoidal. (2018, 2 junio). Electronica Lugo. https://electronicalugo.com/forma-de-onda-sinusoidal/
+
+c, C. (2021, 8 enero). Representación Fasorial de corrientes y voltajes – Fasores. dademuchconnection. https://dademuch.com/2019/04/08/representacion-fasorial-de-corrientes-y-voltajes-fasores/
+
+a, A. (2020, 29 julio). Condensador en CC (CD) - Capacitor y la corriente directa - Electrónica Unicrom %. Electrónica Unicrom. https://unicrom.com/condensador-en-cc-dc/
+
+¿Cuáles son las principales aplicaciones de los capacitores? (2022, 28 agosto). Electropreguntas. https://electropreguntas.com/cuales-son-las-principales-aplicaciones-de-los-capacitores/
+
+O, A. (s. f.). DEFINICION, USO Y TIPOS DE OSCILOSCOPIOS. Equipos y laboratorio de Colombia. https://www.equiposylaboratorio.com/portal/articulo-ampliado/definicion-uso-y-tipos-de-osciloscopios
