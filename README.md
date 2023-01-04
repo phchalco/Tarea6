@@ -44,9 +44,21 @@ Voltajes superpuestos de CD y de CA, Formas de onda no sinusoidales y El oscilos
 
 3.-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-
 ![](https://github.com/phchalco/Tarea6/blob/main/S1.png)
 
+![](https://github.com/phchalco/Tarea6/blob/main/S2.png)
+
+![](https://github.com/phchalco/Tarea6/blob/main/S3.png)
+
+![](https://github.com/phchalco/Tarea6/blob/main/S4.png)
+
+![](https://github.com/phchalco/Tarea6/blob/main/S5.png)
+
+![](https://github.com/phchalco/Tarea6/blob/main/S6.png)
+
+![](https://github.com/phchalco/Tarea6/blob/main/S7.png)
+
+![](https://github.com/phchalco/Tarea6/blob/main/S8.png)
 
 Capítulo 10
 
