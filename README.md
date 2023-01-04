@@ -44,97 +44,21 @@ Voltajes superpuestos de CD y de CA, Formas de onda no sinusoidales y El oscilos
 
 3.-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-![](https://github.com/phchalco/Tarea5/blob/main/PT1.png)
+![](https://github.com/phchalco/Tarea6/blob/main/QR1.png)
 
-SECCIÓN 9-1 Ecuaciones simultáneas en el análisis de circuitos.
+![](https://github.com/phchalco/Tarea6/blob/main/QR2.png)
 
-2.Evalúe cada determinante:
+![](https://github.com/phchalco/Tarea6/blob/main/QR3.png)
 
-![](https://github.com/phchalco/Tarea5/blob/main/PT1.png)
+![](https://github.com/phchalco/Tarea6/blob/main/QR4.png)
 
-4.Evalúe cada uno de los determinantes:
+![](https://github.com/phchalco/Tarea6/blob/main/QR5.png)
 
-![](https://github.com/phchalco/Tarea5/blob/main/PT2.png)
+![](https://github.com/phchalco/Tarea6/blob/main/QR6.png)
 
-6.Determine I3 en el ejemplo 9-4.
+![](https://github.com/phchalco/Tarea6/blob/main/QR7.png)
 
-![](https://github.com/phchalco/Tarea5/blob/main/PT3.png)
-
-8.Determine V1, V2, V3 y V4 resolviendo el siguiente conjunto de ecuaciones con una calculadora:
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT4.png)
-
-10.Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora.
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT6.png)
-
-SECCIÓN 9–2 Método de la corriente en ramas.
-
-12.Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26.
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT6.png)
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT7.png)
-
-14.Determine la corriente a través de cada resistor mostrado en la figura 9-27.
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT8.png)
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT9.png)
-
-SECCIÓN 9–3 Método de la corriente en lazos.
-
-16.Escriba el determinante característico para las ecuaciones:
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT10.png)
-
-18.Determine las corrientes de rama en la figura 9-28.
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT11.png)
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT12.png)
-
-20.Escriba las ecuaciones de lazo para el circuito de la figura 9-29.
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT13.png)
-
-22.Determine la corriente a través de cada resistor en la figura 9-29.
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT14.png)
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT15.png)
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT16.png)
-
-24.Cuando se conecta un resistor de 10 kÆ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál es la corriente que circula a través de él?
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT17.png)
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT18.png)
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT19.png)
-
-SECCIÓN 9–4 Método del voltaje en nodos.
-
-26.En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A con respecto a tierra.
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT20.png)
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT21.png)
-
-28.Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los voltajes de nodo.
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT22.png)
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT23.png)
-
-30.Determine el voltaje en los puntos A, B y C en la figura 9-34.
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT24.png)
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT25.png)
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT26.png)
+![](https://github.com/phchalco/Tarea6/blob/main/QR8.png)
 
 Capítulo 10
 
