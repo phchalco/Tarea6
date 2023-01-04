@@ -46,6 +46,7 @@ Voltajes superpuestos de CD y de CA, Formas de onda no sinusoidales y El oscilos
 
 ![](https://github.com/phchalco/Tarea6/blob/main/T1.png)
 
+
 ![](https://github.com/phchalco/Tarea6/blob/main/T2.png)
 
 ![](https://github.com/phchalco/Tarea6/blob/main/T3.png)
